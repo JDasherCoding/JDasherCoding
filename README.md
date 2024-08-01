@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JDasherCoding
 - 👀 I’m interested in Python, JavaScript
 - 🌱 I’m currently learning Penetration Testing on TryHackMe
-- 💞️ I’m looking to collaborate on a Scripture Engagement Website
 - 📫 How to reach me ...
 - ⚡ Fun fact: ...
 
